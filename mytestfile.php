@@ -5,7 +5,7 @@
 <h1>This is PHP Test Application</h1>
 
 <?php
-echo "Version: 3";
+echo "Version: 4";
 ?>
 
 </body>
