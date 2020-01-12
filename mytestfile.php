@@ -1,10 +1,12 @@
+<!DOCTYPE html>
 <html>
-    <body>
-        <?php
-            echo "hello world";
-        ?>
-        <p>
-            Here we go
-        </p>
-    </body>
+<body>
+
+<h1>This is PHP Test Application</h1>
+
+<?php
+echo "Version: 3";
+?>
+
+</body>
 </html>
